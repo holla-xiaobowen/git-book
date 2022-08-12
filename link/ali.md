@@ -9,6 +9,11 @@
 ## 3. 深度思考
 深度的思考问题的关键点所在
 
+```js
+    function test(number) {
+        console.log(number)  
+    }
+```
 ## 表格
 | cn  | en     | fn      |
 | --- | ------ | ------- |
